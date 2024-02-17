@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Menu 3d</h1>
-  <img src="projects/menu3d.gif" alt="Menu animado" >
+  <img src="menu3d.gif" alt="Menu animado" >
 </div>
 
 > ## Descrição
